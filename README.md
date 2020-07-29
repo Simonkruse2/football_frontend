@@ -1,8 +1,3 @@
-# Course-Assignment-3_Client
-
-This is a client for login in or out of REST endpoint and for fetching data when logged in.  
-Set REST endpoint URL in file **src/settings.js**  
-
 ## Deployment instructions
 First clone project.  
 In cloned folder using a terminal enter:  
